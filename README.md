@@ -8,6 +8,11 @@ This is the community repo for Trillion Builders — a place where we collect wh
 
 ## What's Here
 
+### 📜 The TrillionBear Testament
+The founding texts of the community — 8 books written by [@trillionbear](https://x.com/trillionbear) covering the philosophy of building, rebellion, leadership, and unity.
+
+→ [Read the Testament](./library/testament/)
+
 ### 📚 Library
 Teachings, frameworks, and curated threads from TrillionBear — organized and searchable.
 
@@ -39,6 +44,7 @@ Your first contribution can take less than 10 minutes. No coding required.
 
 | I want to... | Go here |
 |---|---|
+| Read the founding texts | [library/testament/](./library/testament/) |
 | Read TrillionBear teachings | [library/](./library/) |
 | Fix a typo or improve a doc | [CONTRIBUTING.md](./CONTRIBUTING.md) |
 | Learn how to use GitHub | [guides/github-101.md](./guides/github-101.md) |
