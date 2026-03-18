@@ -8,14 +8,14 @@ Welcome. Whether this is your first time on GitHub or you've shipped production 
 
 There are two types of work in this repo:
 
-**Shared spaces** — The library (books, threads, resources) belongs to everyone. You contribute to it, your name lives in the commit history. Your avatar shows up next to every line you wrote. Small contributions are real contributions.
+**Shared spaces** — The library (books & resources) belong to everyone. You contribute to it, your name lives in the commit history. Your avatar shows up next to every line you wrote. Small contributions are real contributions. It's about shared learnings and a place to hub trainings, assets, workflows and research. 
 
 **Your named space** — If you propose a project and it gets accepted, you earn a named folder: `projects/your-project-name/`. That's permanent. That folder is yours. It carries your name in the history for as long as the repo exists. You go from contributor to builder.
 
 The progression:
 ```
 Tier 1: Edit shared files → your name in commit history
-Tier 2: Create named files in shared folders (e.g. library/threads/topic-yourhandle.md)
+Tier 2: Create named files in shared folders (e.g. library/books/topic-yourhandle.md)
 Tier 3: Own a folder → projects/your-project/
 ```
 
@@ -35,13 +35,6 @@ These take 5-10 minutes and only require a browser:
 
 ### Add to a Resource List
 The [tools list](./library/resources/tools.md) and [reading list](./library/resources/reading-list.md) are community-curated. Add a tool, book, or resource you've found useful by editing the file and submitting a PR.
-
-### Convert a Thread
-Take a TrillionBear X thread and turn it into a markdown file:
-1. Copy the [thread template](./library/threads/_TEMPLATE.md)
-2. Create a new file in `library/threads/` named `YYYY-MM-topic-slug.md`
-3. Fill in the content
-4. Submit a PR
 
 ---
 
@@ -81,4 +74,4 @@ Check `projects/` for active community builds. The [Bear Market Universe](./proj
 
 ## New to GitHub?
 
-Start with our [GitHub 101 guide](./guides/github-101.md). It walks you through everything from creating an account to making your first pull request — no terminal required.
+Start with our [GitHub 101 guide](/getting-started-git-guides). It walks you through everything from creating an account to making your first pull request — no terminal required.

@@ -6,6 +6,15 @@ This is the community repo for Trillion Builders — a place where we collect wh
 
 ---
 
+## The Vision
+
+Six months from now, this repo tells a story: a community that builds together. Every contribution — a typo fix, a converted thread, a new guide, a full project — adds to the commit history. Your green dots are your proof of work.
+
+We're not here to watch. We're here to build.
+
+
+---
+
 ## What's Here
 
 ### 📜 The TrillionBear Testament
@@ -23,7 +32,7 @@ Community builds, starting with the Bear Market Universe — autonomous AI agent
 
 → [See active projects](./projects/)
 
-### 📖 Guides
+### 📖 Github Starting Guides
 Step-by-step walkthroughs for getting started with GitHub, markdown, AI tools, and building your first agent.
 
 → [Start learning](./guides/)
@@ -50,14 +59,6 @@ Your first contribution can take less than 10 minutes. No coding required.
 | Learn how to use GitHub | [guides/github-101.md](./guides/github-101.md) |
 | Propose a new project | [Open an issue](../../issues/new?template=propose-a-project.md) |
 | Add a teaching or thread | [Open an issue](../../issues/new?template=add-a-teaching.md) |
-
----
-
-## The Vision
-
-Six months from now, this repo tells a story: a community that builds together. Every contribution — a typo fix, a converted thread, a new guide, a full project — adds to the commit history. Your green dots are your proof of work.
-
-We're not here to watch. We're here to build.
 
 ---
 

@@ -1,3 +1,10 @@
 .DS_Store
 **/.DS_Store
 Thumbs.db
+
+# Bear images — too large for git (935MB). See library/resources/trillionbears-images/README.md
+library/resources/trillionbears-images/*.png
+library/resources/trillionbears-images/*.jpg
+library/resources/trillionbears-images/*.jpeg
+library/resources/trillionbears-images/*.gif
+library/resources/trillionbears-images/*.webp
