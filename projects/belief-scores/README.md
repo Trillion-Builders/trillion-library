@@ -8,6 +8,24 @@
 
 ---
 
+## What a High Score Means
+
+A high Belief Score tells you one thing: the holders stayed.
+
+It doesn't tell you why. It doesn't tell you what happens next. But in a market where most tokens bleed out within weeks, survival is signal. Every day a token keeps its holder base intact, the probability it keeps it tomorrow goes up. The longer it survives, the harder it is to kill. Conviction metrics are a measure of that survival — not a guarantee of what comes after.
+
+Think of the score as a **quality filter, not a prediction engine**. A high score narrows the field. It identifies tokens where the holder base has been tested — by time, by price action, by alternatives — and hasn't left. That's rare. Most tokens don't pass this test.
+
+### The Coil Thesis
+
+High conviction + long hold time + thin free float = a coiled position. Supply is locked with believers. The effective float — tokens actually available to buy — is small. When demand arrives, the math changes fast. Belief Score measures the coil. The catalyst is yours to find.
+
+What moves a coiled token: a listing, a narrative shift, a community moment, a partnership, attention from someone with reach. Conviction without catalyst is inert. But inert isn't dead. The distinction matters.
+
+The tokens worth watching aren't always the ones moving. Sometimes they're the ones that haven't moved yet — and whose holders have decided not to leave until they do.
+
+---
+
 ## What It Does
 
 Belief Live scans a token's holder base and produces a **Belief Score** — a composite 0–100 metric that measures how much of the supply is in "believing" hands vs. trading hands.
