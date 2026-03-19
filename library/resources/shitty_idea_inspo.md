@@ -121,6 +121,9 @@ A web UI for the Python script already in the repo. Paste your Helius key, click
 **Bear Trait Explorer**
 Loads TrillionBears NFT metadata locally. Filter and browse by trait. No images needed — just the JSON. Good intro to working with on-chain data without needing a full app.
 
+**Tweet Like TrillionBear** ⭐
+The real voice training tool. Scrape and distill [tb-twts.com](https://tb-twts.com/) — TrillionBear's full tweet archive — then use it as the training corpus to generate new tweets in his exact voice. Paste a topic or idea, get back something that sounds like it came from him. Needs Claude API. This one is the most powerful of the bunch because the source material is pure signal — years of actual posts, not summaries. Someone needs to own this.
+
 **Write Like TrillionBear**
 Paste any idea or draft. Get it rewritten in TB's voice using the Testament as reference material. User brings their Claude API key. The source material for training it is already in the repo.
 
