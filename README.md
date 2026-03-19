@@ -53,12 +53,12 @@ Your first contribution can take less than 10 minutes. No coding required.
 
 | I want to... | Go here |
 |---|---|
-| Read the founding texts | [library/testament/](./library/testament/) |
+| Read the founding texts | [testament/](./testament/) |
 | Read TrillionBear teachings | [library/](./library/) |
 | Fix a typo or improve a doc | [CONTRIBUTING.md](./CONTRIBUTING.md) |
-| Learn how to use GitHub | [guides/github-101.md](./guides/github-101.md) |
-| Propose a new project | [Open an issue](../../issues/new?template=propose-a-project.md) |
-| Add a teaching or thread | [Open an issue](../../issues/new?template=add-a-teaching.md) |
+| Learn how to use GitHub | [github-101.md](./library/books/getting-started-git-guides/github-101.md) |
+| Propose a new project | [Open an issue](https://github.com/Trillion-Builders/trillion-library/issues/new?template=propose-a-project.md) |
+| Add a teaching or thread | [Open an issue](https://github.com/Trillion-Builders/trillion-library/issues/new?template=add-a-teaching.md) |
 
 ---
 
