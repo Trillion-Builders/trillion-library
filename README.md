@@ -35,7 +35,7 @@ Community builds, starting with the Bear Market Universe — autonomous AI agent
 ### 📖 Github Starting Guides
 Step-by-step walkthroughs for getting started with GitHub, markdown, AI tools, and building your first agent.
 
-→ [Start learning](./guides/)
+→ [Start learning](./library/books/getting-started-git-guides/)
 
 ---
 
