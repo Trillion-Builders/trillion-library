@@ -1,0 +1,14 @@
+{
+  "name": "x-bookmark-synthesis",
+  "version": "1.0.0",
+  "description": "Fetch X bookmarks, cluster by topic, synthesize into organized digests",
+  "type": "module",
+  "scripts": {
+    "fetch": "node fetch-bookmarks.mjs",
+    "fetch:full": "node fetch-bookmarks.mjs --full"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

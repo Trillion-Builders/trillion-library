@@ -1,0 +1,15 @@
+# Secrets
+.env
+tokens.json
+
+# Personal data (your bookmarks stay local)
+fetch-state.json
+raw-bookmarks.json
+pulls/
+digests/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
