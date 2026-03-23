@@ -31,6 +31,10 @@ Community-curated list of tools we use and recommend. Add yours by editing this 
 - [Figma](https://figma.com) — Design and prototype. Free tier works for most things. Pairs well with v0 for turning designs into code.
 - [Canva](https://canva.com) — Quick graphics, social posts, decks. No design skills required.
 
+## Automation / Media
+
+- [FFmpeg](https://ffmpeg.org) — Free CLI tool for video editing, stitching clips, adding audio, encoding. If you're automating video production (daily recaps, social clips, etc.), this is the engine. Works great with Claude Code — describe the edit you want in plain English, get the command.
+
 ## Productivity / Comms
 
 - [Telegram](https://telegram.org) — Where the TB community lives. Also useful for bot projects (see: Telegram ↔ GitHub Bridge).
